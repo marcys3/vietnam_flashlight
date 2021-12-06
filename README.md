@@ -1,6 +1,8 @@
 # vietnam_flashlight
+Note: This script utilizes ACE Interaction.
 
 This simple script utilizes light cones added by BIS with contact DLC, to make vest mounted flashlight. Very useful during nighttime when playing on Unsung mod.  
+
 
 ![Example](https://i.imgur.com/iwwBY7a.png)
 # How to use:

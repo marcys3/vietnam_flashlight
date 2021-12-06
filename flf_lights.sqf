@@ -1,7 +1,7 @@
 _statement_on = {
 	_light = "Reflector_Cone_01_narrow_red_F" createVehicle [0,0,0];
 	_light attachTo [player, [-0.16, 0.16, 0.17], "spine3", true];
-	// rotate 15 degress up
+	// rotate 15 degrees up
 	_light setVectorUp [0,-0.258819,0.965926];
 	player setVariable ["flf_flashlight", _light, false];
 	player setVariable ["flf_flashlight_Is_On", true, false];
