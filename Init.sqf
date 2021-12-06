@@ -1,0 +1,1 @@
+execVM "flf_lights.sqf";
